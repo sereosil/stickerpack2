@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="btnGreen">
+        <item name="android:textColor">#EF2525</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:background">@drawable/border</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:letterSpacing" tools:targetApi="lollipop">0.1</item>
+        <item name="android:elevation" tools:targetApi="lollipop">35px</item>
+    </style>
+</resources>

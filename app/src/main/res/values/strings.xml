@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tess Stickerpack</string>
+    <string name="link_label">Link:</string>
+    <string name="none">None</string>
+    <string name="content_label">Content:</string>
+    <string name="stickers_label">Stickers:</string>
+    <string name="stickers_add_btn">Add \nStickers</string>
+    <string name="stickers_add_success">Successfully added stickers</string>
+</resources>
